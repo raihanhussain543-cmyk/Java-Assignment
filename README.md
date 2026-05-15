@@ -4,7 +4,7 @@
 
 A Java Swing GUI application for managing stock items in a car parts and accessories shop.  
 Demonstrates inheritance, polymorphism, encapsulation, and a fully functional GUI.
-All the code is in the Src folder
+All the code is in the Src folder.
 
 ## How to Run
 1. Import the project into Eclipse
